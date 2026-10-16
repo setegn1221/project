@@ -1,2 +1,2 @@
 # project
-project repo
+project repo for commands demonstration
